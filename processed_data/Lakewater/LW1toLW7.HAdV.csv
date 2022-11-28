@@ -1,0 +1,18 @@
+"Run","Plate","Name","Well","Total","Conc..cp.uL","Positives","Sample..","date","finalcon.cp.L","QualityCheck"
+"HAdV-JTX-lw1-7-hwu","M01KC222500231","","Average",20445.93,9.46,81,NA,NA,"   NA","Pass"
+"HAdV-JTX-lw1-7-hwu","M01KC222500231","lw1","A1",20475,0,0,"LCMB 4",2022-06-27,"0e+00","Fail"
+"HAdV-JTX-lw1-7-hwu","M01KC222500231","lw1","B1",20353,0,0,"LCMB 4",2022-06-27,"0e+00","Fail"
+"HAdV-JTX-lw1-7-hwu","M01KC222500231","lw2","C1",20475,0,0,"G-PC 4",2022-07-26,"0e+00","Fail"
+"HAdV-JTX-lw1-7-hwu","M01KC222500231","lw2","D1",20436,0,0,"G-PC 4",2022-07-26,"0e+00","Fail"
+"HAdV-JTX-lw1-7-hwu","M01KC222500231","lw3","A2",20467,0,0,"LCMB 4",2022-07-26,"0e+00","Fail"
+"HAdV-JTX-lw1-7-hwu","M01KC222500231","lw3","B2",20468,0,0,"LCMB 4",2022-07-26,"0e+00","Fail"
+"HAdV-JTX-lw1-7-hwu","M01KC222500231","lw4","C2",20478,0,0,"G-PC 2",2022-08-30,"0e+00","Fail"
+"HAdV-JTX-lw1-7-hwu","M01KC222500231","lw4","D2",20393,0,0,"G-PC 2",2022-08-30,"0e+00","Fail"
+"HAdV-JTX-lw1-7-hwu","M01KC222500231","lw5","A3",20399,0,0,"G-PC 4",2022-08-30,"0e+00","Fail"
+"HAdV-JTX-lw1-7-hwu","M01KC222500231","lw5","B3",NA,NA,NA,"G-PC 4",2022-08-30,"  NaN",NA
+"HAdV-JTX-lw1-7-hwu","M01KC222500231","lw6","C3",20475,0,0,"G-PC 2",2022-09-26,"0e+00","Fail"
+"HAdV-JTX-lw1-7-hwu","M01KC222500231","lw6","D3",20440,0,0,"G-PC 2",2022-09-26,"0e+00","Fail"
+"HAdV-JTX-lw1-7-hwu","M01KC222500231","lw7","A4",NA,NA,NA,"G-PC 4",2022-09-26,"  NaN",NA
+"HAdV-JTX-lw1-7-hwu","M01KC222500231","lw7","B4",20473,0,0,"G-PC 4",2022-09-26,"0e+00","Fail"
+"HAdV-JTX-lw1-7-hwu","M01KC222500231","POS","C4",20475,132.37,1138,NA,NA,"   NA","Pass"
+"HAdV-JTX-lw1-7-hwu","M01KC222500231","NTC","D4",20436,0,0,NA,NA,"   NA","Fail"

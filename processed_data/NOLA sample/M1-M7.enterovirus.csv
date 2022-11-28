@@ -1,0 +1,18 @@
+"Run","Plate","Name","Well","Total","Conc..cp.uL","Positives","finalcon.cp.L","QualityCheck"
+"Enterovirus-m1-m7-hwu","M01KC222500203","","Average",20472.29,71.06,527,"          NA","Pass"
+"Enterovirus-m1-m7-hwu","M01KC222500203","m1","A1",NA,NA,NA,"         NaN",NA
+"Enterovirus-m1-m7-hwu","M01KC222500203","m1","B1",20457,27.2,239,"1.243429e+05","Pass"
+"Enterovirus-m1-m7-hwu","M01KC222500203","m2","C1",20479,0.68,6,"3.108571e+03","Pass"
+"Enterovirus-m1-m7-hwu","M01KC222500203","m2","D1",20474,0.79,7,"3.611429e+03","Pass"
+"Enterovirus-m1-m7-hwu","M01KC222500203","m3","A2",20480,3.05,27,"1.394286e+04","Pass"
+"Enterovirus-m1-m7-hwu","M01KC222500203","m3","B2",20480,3.51,31,"1.604571e+04","Pass"
+"Enterovirus-m1-m7-hwu","M01KC222500203","m4","C2",20480,0.9,8,"4.114286e+03","Pass"
+"Enterovirus-m1-m7-hwu","M01KC222500203","m4","D2",20470,1.13,10,"5.165714e+03","Pass"
+"Enterovirus-m1-m7-hwu","M01KC222500203","m5","A3",NA,NA,NA,"         NaN",NA
+"Enterovirus-m1-m7-hwu","M01KC222500203","m5","B3",20448,27.33,240,"1.249371e+05","Pass"
+"Enterovirus-m1-m7-hwu","M01KC222500203","m6","C3",20480,4.75,42,"2.171429e+04","Pass"
+"Enterovirus-m1-m7-hwu","M01KC222500203","m6","D3",20470,4.41,39,"2.016000e+04","Pass"
+"Enterovirus-m1-m7-hwu","M01KC222500203","m7","A4",20460,1.02,9,"4.662857e+03","Pass"
+"Enterovirus-m1-m7-hwu","M01KC222500203","m7","B4",20480,1.81,16,"8.274286e+03","Pass"
+"Enterovirus-m1-m7-hwu","M01KC222500203","POS","C4",20480,918.21,6706,"          NA","Pass"
+"Enterovirus-m1-m7-hwu","M01KC222500203","NTC","D4",20474,0,0,"          NA","Fail"
