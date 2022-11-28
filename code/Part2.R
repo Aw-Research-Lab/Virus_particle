@@ -1,6 +1,6 @@
 # ######Part2#####
 # getwd()
-# setwd("/Users/huiyunwu/Desktop/R/R.back.cal./NOLA sample/")
+setwd("/Users/huiyunwu/Desktop/Virus_particle")
 # m.enterovirus<-read.csv(file = "M1-M7.enterovirus.csv")
 # m.norovirus<-read.csv(file = "M1-M7.norovirus.csv")
 # m.HAdV<-read.csv(file = "M1-M7.HAdV.csv")
