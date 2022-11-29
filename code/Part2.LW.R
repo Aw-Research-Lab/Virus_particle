@@ -1,6 +1,6 @@
 # ######Part2#####
 getwd()
-setwd("/Users/huiyunwu/Desktop/R/R.back.cal./Lakewater/")
+setwd("/Users/huiyunwu/Desktop/Virus_particle/")
 enterovirus<-read.csv(file = "LW1toLW7.enterovirus.csv")
 norovirus<-read.csv(file = "LW1toLW7.norovirus.csv")
 HAdV<-read.csv(file = "LW1toLW7.HAdV.csv")
