@@ -11,17 +11,17 @@ df <-
   map_df(~read_csv(.))
 df
 
-write.csv(df,file="processed_data/Sample11to14/combined_plate.csv")
+write.csv(df,file="/Users/huiyunwu/Desktop/Virus_particle/processed_data/Sample11to14/raw_combined_plate.csv",row.names = F)
 
 #####set work directory to the original one
 setwd("/Users/huiyunwu/Desktop/Virus_particle/")
 
 
 ## File path in, current location of the .csv file
-FilePathIn <-"processed_data/Sample11to14/rawdata/Crassphage56.13.5to14.5to10.3.hwu.raw.csv"
+FilePathIn <-"processed_data/Sample11to14/combined_plate.csv"
 x<-FilePathIn
 ##File Path out, include desired file name with .csv designation
-FilePathOut <-"/Users/huiyunwu/Desktop/Virus_particle/processed_data/Sample11to14/C56.S13.5to14.5.csv"
+FilePathOut <-"/Users/huiyunwu/Desktop/Virus_particle/processed_data/Sample11to14/back_cal_S11to14_combined.csv"
 y<-FilePathOut
 ######Load sample volume#####
 Vol.<-read.csv(file = "processed_data/Sample11to14/Vol.Sample.csv")
