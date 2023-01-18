@@ -1,0 +1,59 @@
+Name,WWTP,Collection.date,Pore.size,Volume.L,HAdV,enterovirus,norovirus,MS2,crAssphage56,comments
+3.1,"Oceanside, CA",8/23/22,20 um,2.5,0,NA,NA,NA,43800,
+3.2,"Oceanside, CA",8/23/22,3 um,1,90,NA,NA,NA,101000,
+3.3,"Oceanside, CA",8/23/22,0.45um,3,0,NA,NA,NA,33400,
+4.1,"San Jose, CA",9/19/22,100 um,3,98,NA,NA,NA,63900,
+4.2,"San Jose, CA",9/19/22,20 um,3,0,NA,NA,NA,2080,
+4.3,"San Jose, CA",9/19/22,3 um,3,290.67,NA,NA,NA,101000,
+4.4,"San Jose, CA",9/19/22,0.45um,0.75,45.33,NA,NA,NA,87300,
+5.1,"Gainesville, FL",9/27/22,100 um,3,0,NA,NA,NA,12800,
+5.2,"Gainesville, FL",9/27/22,20 um,3,0,NA,NA,NA,356,
+5.3,"Gainesville, FL",9/27/22,3 um,3,0,NA,NA,NA,13200,
+5.4,"Gainesville, FL",9/27/22,0.45um,1,0,NA,NA,NA,7410,
+6.1,"Oceanside, CA",9/28/22,100 um,3,0,NA,NA,NA,9340,
+6.2,"Oceanside, CA",9/28/22,20 um,3,0,NA,NA,NA,34.2,
+6.3,"Oceanside, CA",9/28/22,3 um,3,52.67,NA,NA,NA,54400,
+6.4,"Oceanside, CA",9/28/22,0.45um,1,0,NA,NA,NA,65000,
+7.1,"Orange County, CA",10/10/22,100 um,3,38,0,0,0,59700,
+7.2,"Orange County, CA",10/10/22,20 um,3,0,0,0,0,11900,
+7.3,"Orange County, CA",10/10/22,3 um,1.5,60,45.3,113.33333,0,144000,
+7.4,"Orange County, CA",10/10/22,0.45um,1.5,0,0,188.66667,0,397000,
+8.1,"San Jose, CA",10/11/22,100 um,3,41.333333,0,0,0,15300,
+8.2,"San Jose, CA",10/11/22,20 um,3,90.333333,0,0,0,21000,
+8.3,"San Jose, CA",10/11/22,3 um,1,NA,0,0,0,323000,
+8.4,"San Jose, CA",10/11/22,0.45um,1,NA,0,316,0,31700,
+9.1,"Gainesville, FL",10/24/22,100 um,3,NA,0,0,0,2540,
+9.2,"Gainesville, FL",10/24/22,20 um,3,NA,0,0,0,2230,
+9.3,"Gainesville, FL",10/24/22,3 um,1.5,NA,0,90.66666667,0,NA,
+9.4,"Gainesville, FL",10/24/22,0.45um,1.5,NA,0,45.33333333,0,NA,
+10.1,"Toledo, OH",10/31/22,100 um,3,NA,0,0,0,NA,
+10.2,"Toledo, OH",10/31/22,20 um,3,NA,0,0,0,NA,
+10.3,"Toledo, OH",10/31/22,3 um,1,NA,NA,NA,NA,1040235,
+10.4,"Toledo, OH",10/31/22,0.45um,0.75,NA,NA,NA,NA,NA,
+3.5,"Oceanside, CA",8/23/22,0.45um filtrate HFUF+InvP,20,NA,0,0,0,116000,HFUF+INVP
+4.5,"San Jose, CA",9/19/22,0.45um filtrate HFUF+InvP,20,466.875,21.3,403,NA,28500,HFUF+INVP
+5.5,"Gainesville, FL",9/27/22,0.45um filtrate HFUF+ InvP,20,865.069,3070,719,NA,291000,HFUF+INVP
+7.5,"Orange County, CA",10/10/22,0.45um filtrate HFUF+InvP,20,854.25,387,1490,419.753,87600,HFUF+INVP
+8.5,"San Jose, CA",10/11/22,0.45um filtrate HFUF+InvP,20,577.8,37.2,977,NA,29100,HFUF+INVP
+9.5,"Gainesville, FL",10/24/22,0.45um filtrate HFUF+InvP,20,51.45,0,319,0,12300,HFUF+INVP
+10.5,"Toledo, OH",10/31/22,0.45um filtrate HFUF+InvP,20,244.575,25.7,178,0,99600,HFUF+INVP
+11.1,"Orange County, CA",11/28/22,100 um,3,38.66667,0,0,0,54571.33,
+11.2,"Orange County, CA",11/28/22,20 um,1.5,106.3333,0,0,0,45505,
+11.3,"Orange County, CA",11/28/22,3 um,1.3,410.23075,0,122.538485,0,548480.25,
+11.4,"Orange County, CA",11/28/22,0.45um,0.75,61,0,710.33335,0,174245,
+11.5,"Orange County, CA",11/28/22,filtrate,3.5,0,0,305,0,5417.5715,HFUF+Nanotrap
+12.1,"Oceanside, CA",11/28/22,100 um,3,95.333335,0,0,0,25181,
+12.2,"Oceanside, CA",11/28/22,20 um,2,9.00E+01,0,0,0,53617.5,
+12.3,"Oceanside, CA",11/28/22,3 um,1.5,0,0,0,0,103955.65,
+12.4,"Oceanside, CA",11/28/22,0.45um,0.75,0,0,166.33335,0,61461,
+12.5,"Oceanside, CA",11/28/22,filtrate,3.5,58.85714,0,17.285715,0,18460.425,HFUF+Nanotrap
+13.1,"Oceanside, CA",12/5/22,100 um,3,0,0,0,0,7110.3335,
+13.2,"Oceanside, CA",12/5/22,20 um,3,35,0,0,0,64699.335,
+13.3,"Oceanside, CA",12/5/22,3 um,2.5,32.6,0,0,0,208232.2,
+13.4,"Oceanside, CA",12/5/22,0.45um,1,0,0,0,0,141501,
+13.5,"Oceanside, CA",12/5/22,filtrate,3.5,0,0,0,0,14224.715,HFUF+Nanotrap
+14.1,"Orange County, CA",12/12/22,100 um,3,106.333335,0,0,0,313886,
+14.2,"Orange County, CA",12/12/22,20 um,3,76.333335,,0,,,
+14.3,"Orange County, CA",12/12/22,3 um,1.5,559.6667,0,84.333335,0,1255485,
+14.4,"Orange County, CA",12/12/22,0.45um,0.5,679,341,3829,0,1200447,
+14.5,"Orange County, CA",12/12/22,filtrate,3.5,30.142855,43,2019,0,11063.86,HFUF+Nanotrap
